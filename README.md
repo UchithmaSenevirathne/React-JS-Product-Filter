@@ -1,7 +1,6 @@
 # Product Filter Page
 
 ![src/assets/Screenshot 2024-05-16 164911.png](https://github.com/UchithmaSenevirathne/React-JS-Product-Filter/blob/main/src/assets/Screenshot%202024-05-16%20164911.png))
-![src/assets/Screenshot 2024-05-16 164941.png](https://github.com/UchithmaSenevirathne/React-JS-Product-Filter/blob/main/src/assets/Screenshot%202024-05-16%20164941.png)
 
 # Getting Started with Create React App
 
